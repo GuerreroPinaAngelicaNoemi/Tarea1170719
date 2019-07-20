@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Practica1170719</string>
+    <string name="app_nombres">Nombre</string>
+    <string name="app_Ingrenombre">Ingrese Nombre</string>
+    <string name="app_apellido">Apellido</string>
+    <string name="app_IngreApellido">Ingrese Apellido</string>
+    <string name="app_Edad">Edad</string>
+    <string name="app_IngreEda">Ingrese Edad</string>
+    <string name="app_hombre">Hombre</string>
+    <string name="app_mujer">Mujer</string>
+    <string name="app_IngrenInte">Intereses</string>
+    <string name="app_Deport">Deportes</string>
+    <string name="app_juegos">Videojuegos</string>
+    <string name="app_Lib">Libros</string>
+    <string name="app_Educa">Educacion</string>
+    <string name="app_Art">Arte</string>
+    <string name="app_Belleza">Belleza</string>
+    <string name="app_Tatuaje">Tatuajes</string>
+    <string name="app_Donar">Donar</string>
+    <string name="app_Aceptar">Acepto terminos y condiciones</string>
+    <string name="app_Permitir">Permitir usar datos par fines estadisticos</string>
+    <string name="app_Delete">Borrar</string>
+    <string name="app_Registrar">Registrar</string>
+</resources>
